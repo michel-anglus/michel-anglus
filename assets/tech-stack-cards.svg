@@ -1,0 +1,122 @@
+<svg width="918" height="568" viewBox="0 0 918 568" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="918" y2="568">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#0A2A66"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="918" height="568" rx="28" fill="url(#bg)"/>
+  <text x="40" y="44" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="900">TECH STACK</text>
+  <text x="235" y="44" fill="#8FD5FF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="700">cards quadrados</text>
+  <g filter="url(#shadow)">
+    
+    <g transform="translate(40,75)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#777BB4"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">PHP</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">PHP</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#777BB4"/>
+    </g>
+    <g transform="translate(212,75)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#FF2D20"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">L</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Laravel</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#FF2D20"/>
+    </g>
+    <g transform="translate(384,75)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#F7DF1E"/>
+      <text x="50" y="60" text-anchor="middle" fill="#031225" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">JS</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">JavaScript</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#F7DF1E"/>
+    </g>
+    <g transform="translate(556,75)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#3178C6"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">TS</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">TypeScript</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#3178C6"/>
+    </g>
+    <g transform="translate(728,75)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#339933"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">N</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Node.js</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#339933"/>
+    </g>
+    <g transform="translate(40,235)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#61DAFB"/>
+      <text x="50" y="60" text-anchor="middle" fill="#031225" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">R</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">React</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#61DAFB"/>
+    </g>
+    <g transform="translate(212,235)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#3776AB"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">PY</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Python</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#3776AB"/>
+    </g>
+    <g transform="translate(384,235)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#4479A1"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">SQL</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">MySQL</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#4479A1"/>
+    </g>
+    <g transform="translate(556,235)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#4169E1"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">PG</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">PostgreSQL</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#4169E1"/>
+    </g>
+    <g transform="translate(728,235)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#3ECF8E"/>
+      <text x="50" y="60" text-anchor="middle" fill="#031225" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">SB</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Supabase</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#3ECF8E"/>
+    </g>
+    <g transform="translate(40,395)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#2496ED"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">D</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Docker</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#2496ED"/>
+    </g>
+    <g transform="translate(212,395)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#FCC624"/>
+      <text x="50" y="60" text-anchor="middle" fill="#031225" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">LX</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Linux</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#FCC624"/>
+    </g>
+    <g transform="translate(384,395)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#2088FF"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">GA</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">GitHub Actions</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#2088FF"/>
+    </g>
+    <g transform="translate(556,395)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#F38020"/>
+      <text x="50" y="60" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">CF</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">Cloudflare</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#F38020"/>
+    </g>
+    <g transform="translate(728,395)">
+      <rect width="150" height="138" rx="24" fill="#07162E" stroke="white" stroke-opacity="0.12"/>
+      <rect x="18" y="18" width="64" height="64" rx="18" fill="#00D4FF"/>
+      <text x="50" y="60" text-anchor="middle" fill="#031225" font-family="Inter, Segoe UI, Arial" font-size="20" font-weight="900">API</text>
+      <text x="18" y="108" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">API</text>
+      <rect x="18" y="118" width="70" height="4" rx="2" fill="#00D4FF"/>
+    </g>
+  </g>
+</svg>
