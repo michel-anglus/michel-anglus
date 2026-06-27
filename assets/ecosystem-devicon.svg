@@ -1,0 +1,64 @@
+<svg width="1180" height="430" viewBox="0 0 1180 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="430">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F3F8FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0A66FF" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="1180" height="430" rx="30" fill="url(#bg)" stroke="#DDEBFF"/>
+  <text x="40" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="900">ECOSSISTEMA ANGLUS</text>
+  <text x="40" y="74" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="700">software, IA, operação, segurança, mobile, rastreamento e infraestrutura</text>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(40 96)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">D</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">DropDrop</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Dropshipping nacional, pedidos, catálogo, pagamentos e operação.</text>
+    </g>
+
+    <g transform="translate(620 96)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">G</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">GPS Safe</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Rastreamento, telemetria, alertas, dispositivos e monitoramento.</text>
+    </g>
+
+    <g transform="translate(40 200)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">V</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">VilaSafe</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Condomínios, moradores, portaria, segurança e acesso.</text>
+    </g>
+
+    <g transform="translate(620 200)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">R</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">RemoteSafe</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Acesso remoto seguro, suporte técnico e infraestrutura própria.</text>
+    </g>
+
+    <g transform="translate(40 304)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">2F</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">2FAKey</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Hardware de autenticação, segurança digital e validação física.</text>
+    </g>
+
+    <g transform="translate(620 304)">
+      <rect width="520" height="82" rx="20" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <rect x="18" y="18" width="46" height="46" rx="14" fill="#0A66FF"/>
+      <text x="41" y="49" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">N</text>
+      <text x="82" y="33" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">NVRSafe</text>
+      <text x="82" y="58" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="600">Câmeras, NVR, gravação e gestão inteligente de imagens.</text>
+    </g>
+  </g>
+</svg>

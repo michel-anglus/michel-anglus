@@ -17,51 +17,60 @@
   </a>
   <img src="https://img.shields.io/badge/Founder-Anglus%20Software-0A66FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Brazil-São%20Paulo-FFFFFF?style=for-the-badge&labelColor=F3F8FF&color=0A66FF" />
-  <img src="https://komarev.com/ghpvc/?username=michel-anglus&style=for-the-badge&color=0A66FF&label=VISITANTES" />
 </p>
 
 ---
 
 ## 🧠 Sobre
 
-Sou o **Michel**, fundador da **Anglus Software**, criando um ecossistema próprio de produtos digitais com foco em **SaaS, IA, automação, rastreamento, segurança, infraestrutura, mobile e e-commerce**.
+Sou o **Michel**, founder da **Anglus Software**, criando um ecossistema próprio de produtos digitais para **e-commerce, rastreamento, segurança, automação, IA, infraestrutura, mobile e operações empresariais**.
 
-Construo produtos de ponta a ponta: **ideia, arquitetura, backend, frontend, mobile, integrações, automação, cloud, monitoramento e operação real**.
+Meu foco é construir produtos completos: **arquitetura, backend, frontend, mobile, automações, integrações, cloud, monitoramento e operação real**.
 
-> Minha linha de trabalho é criar tecnologia própria, escalável e útil para empresas que precisam operar de verdade.
+> A Anglus Software não é apenas um perfil de código. É um ecossistema em construção.
 
 ---
 
 ## 🏢 Ecossistema Anglus
 
 <p align="center">
-  <img src="./assets/ecosystem-light.svg" alt="Ecossistema Anglus Software" width="100%" />
+  <img src="./assets/ecosystem-devicon.svg" alt="Ecossistema Anglus Software" width="100%" />
 </p>
 
 ---
 
-## ⚡ Áreas fortes
-
-```txt
-SaaS e plataformas web       ████████████████████  100%
-E-commerce e marketplaces    ████████████████████  100%
-Rastreamento e telemetria    ███████████████████   95%
-IA, agentes e automação      ███████████████████   95%
-Mobile Android / iOS         ██████████████████    90%
-Infraestrutura Linux / Cloud ██████████████████    90%
-Segurança e autenticação     █████████████████     85%
-```
-
----
-
-## 🧩 Linguagens, frameworks, IA e ferramentas
+## 🧩 Stack principal
 
 <p align="center">
-  <img src="./assets/tech-stack-light.svg" alt="Tech Stack Michel Anglus" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,nextjs,python,mysql,postgres,supabase,firebase,docker,linux,ubuntu,cloudflare,githubactions,androidstudio,kotlin,swift,flutter,figma,vscode&perline=12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="54" height="54" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="54" height="54" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="54" height="54" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="54" height="54" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="54" height="54" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="54" height="54" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="54" height="54" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="54" height="54" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="54" height="54" alt="MySQL" title="MySQL" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="54" height="54" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="54" height="54" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="54" height="54" alt="Firebase" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="54" height="54" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="54" height="54" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="54" height="54" alt="Ubuntu" title="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="54" height="54" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="54" height="54" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="54" height="54" alt="Android" title="Android" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="54" height="54" alt="Android Studio" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="54" height="54" alt="iOS" title="iOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="54" height="54" alt="Flutter" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="54" height="54" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="54" height="54" alt="Swift" title="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="54" height="54" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="54" height="54" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="54" height="54" alt="Nginx" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="54" height="54" alt="AWS" title="AWS" />
 </p>
 
 <p align="center">
@@ -78,36 +87,21 @@ Segurança e autenticação     ████████████████
 ## 🚀 O que eu construo
 
 - Plataformas SaaS completas
-- Sistemas de pedidos, pagamentos e assinaturas
+- Sistemas de pagamento, assinatura e pedidos
+- Apps Android e iOS
 - Dashboards administrativos e operacionais
-- Apps mobile Android e iOS
-- Integrações com APIs externas
 - Automações com IA e agentes
-- Aplicações com OpenAI, Claude, Gemini, Lovable e automações
+- Integrações com marketplaces e APIs externas
 - Sistemas de rastreamento e telemetria
-- Monitoramento, status page e alertas
-- Infraestrutura Linux, Docker, VPS e Cloudflare
-- Soluções para marketplaces, logística, segurança e atendimento
+- Infraestrutura Linux, Docker, VPS, AWS e Cloudflare
+- Soluções para logística, segurança, atendimento e e-commerce
 
 ---
 
 ## 📊 Presença técnica
 
 <p align="center">
-  <img src="./assets/stats-board-light.svg" alt="Execution Board" width="100%" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=michel-anglus&show_icons=true&theme=default&hide_border=true&include_all_commits=true&title_color=0A66FF&text_color=0B1F44&icon_color=0A66FF&bg_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-anglus&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=0A66FF&text_color=0B1F44&bg_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=michel-anglus&theme=default&hide_border=true&locale=pt_BR&background=FFFFFF&ring=0A66FF&fire=0A66FF&currStreakLabel=0A66FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michel-anglus&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+  <img src="./assets/product-board-devicon.svg" alt="Building Real Software Products" width="100%" />
 </p>
 
 <p align="center">
