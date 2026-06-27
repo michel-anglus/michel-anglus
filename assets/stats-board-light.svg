@@ -1,0 +1,44 @@
+<svg width="1180" height="320" viewBox="0 0 1180 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1180" y2="320">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F3F8FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0A66FF" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="1180" height="320" rx="30" fill="url(#bg)" stroke="#DDEBFF"/>
+  <text x="40" y="52" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="900">FOCO DE EXECUÇÃO</text>
+  <text x="40" y="80" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="700">produto, escala, automação e operação real</text>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(40 118)">
+      <rect width="250" height="140" rx="24" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <text x="28" y="48" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">PRODUTOS</text>
+      <text x="28" y="92" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="44" font-weight="900">6+</text>
+      <text x="28" y="120" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">ecossistema próprio</text>
+    </g>
+
+    <g transform="translate(322 118)">
+      <rect width="250" height="140" rx="24" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <text x="28" y="48" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">STACK</text>
+      <text x="28" y="92" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="44" font-weight="900">30+</text>
+      <text x="28" y="120" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">linguagens e ferramentas</text>
+    </g>
+
+    <g transform="translate(604 118)">
+      <rect width="250" height="140" rx="24" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <text x="28" y="48" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">ÁREAS</text>
+      <text x="28" y="92" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="44" font-weight="900">SaaS</text>
+      <text x="28" y="120" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">IA, cloud, mobile e segurança</text>
+    </g>
+
+    <g transform="translate(886 118)">
+      <rect width="250" height="140" rx="24" fill="#FFFFFF" stroke="#D7E3F4"/>
+      <text x="28" y="48" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="800">MENTALIDADE</text>
+      <text x="28" y="92" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="44" font-weight="900">Ship</text>
+      <text x="28" y="120" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="700">construir, lançar e melhorar</text>
+    </g>
+  </g>
+</svg>

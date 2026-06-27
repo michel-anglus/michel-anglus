@@ -1,38 +1,47 @@
-INSTALAÇÃO — PERFIL GITHUB MICHEL ANGLUS V3 CORRIGIDO
+PERFIL GITHUB MICHEL ANGLUS — V5 LIGHT
 
-1) Crie um repositório público com o nome EXATAMENTE igual ao seu username:
+Esta versão é 100% preparada para modo claro:
+- Sem tema escuro nos SVGs locais.
+- Sem github_dark/tokyonight nas estatísticas.
+- Sem e-mail público.
+- Cards das linguagens em fundo branco.
+- Ecossistema em fundo claro.
+- Snake usa SVG claro por padrão.
+- README preparado para você exportar seu banner do Canva como PNG.
 
-   michel-anglus
+COMO USAR O BANNER
 
-2) O caminho precisa ficar:
+1) Crie/exporte seu banner no Canva em:
+   1280 x 380 px
 
+2) Salve com este nome:
+   michel-anglus-banner.png
+
+3) Coloque dentro da pasta:
+   assets/michel-anglus-banner.png
+
+ARQUIVOS DO PACOTE
+
+README.md
+assets/tech-stack-light.svg
+assets/ecosystem-light.svg
+assets/stats-board-light.svg
+.github/workflows/snake.yml
+
+PASSO A PASSO
+
+1) Abra:
    https://github.com/michel-anglus/michel-anglus
 
-3) Suba estes arquivos na raiz do repositório:
+2) Substitua o README.md antigo pelo novo.
 
-   README.md
-   assets/michel-anglus-banner.svg
-   assets/tech-stack-cards.svg
+3) Suba a pasta assets.
+
+4) Suba/substitua:
    .github/workflows/snake.yml
 
-4) Depois vá em:
+5) Faça commit:
+   Atualizar perfil modo claro V5
 
+6) Rode:
    Actions > Generate Snake > Run workflow
-
-5) Quando terminar, volte no perfil:
-
-   https://github.com/michel-anglus
-
-6) Fixe 6 repositórios no perfil:
-   - DropDrop
-   - GPS Safe
-   - VilaSafe
-   - RemoteSafe
-   - 2FAKey
-   - NVRSafe
-
-IMPORTANTE:
-- O repositório precisa ser público.
-- O README.md precisa estar na raiz.
-- O nome do repositório precisa ser exatamente michel-anglus.
-- O cron do GitHub Actions usa UTC. Por isso o workflow está em 06:00 UTC, que equivale a 03:00 no Brasil quando o fuso está UTC-3.

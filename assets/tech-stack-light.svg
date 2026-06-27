@@ -1,0 +1,305 @@
+<svg width="1146" height="1244" viewBox="0 0 1146 1244" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1146" y2="1244">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F3F8FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0A66FF" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="1146" height="1244" rx="30" fill="url(#bg)" stroke="#DDEBFF"/>
+  <text x="40" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="30" font-weight="900">TECH STACK</text>
+  <text x="246" y="48" fill="#0A66FF" font-family="Inter, Segoe UI, Arial" font-size="17" font-weight="800">linguagens • mobile • cloud • IA • automação</text>
+  <g filter="url(#shadow)">
+    
+    <g transform="translate(40,82)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#777BB4"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">PHP</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">PHP</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#777BB4"/>
+    </g>
+    <g transform="translate(312,82)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#FF2D20"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">L</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Laravel</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#FF2D20"/>
+    </g>
+    <g transform="translate(584,82)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#F7DF1E"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">JS</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">JavaScript</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#F7DF1E"/>
+    </g>
+    <g transform="translate(856,82)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#3178C6"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">TS</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">TypeScript</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#3178C6"/>
+    </g>
+    <g transform="translate(40,222)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#339933"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">N</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Node.js</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#339933"/>
+    </g>
+    <g transform="translate(312,222)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#61DAFB"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">R</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">React</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#61DAFB"/>
+    </g>
+    <g transform="translate(584,222)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#111827"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">NX</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Next.js</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#111827"/>
+    </g>
+    <g transform="translate(856,222)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#3776AB"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">PY</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Python</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#3776AB"/>
+    </g>
+    <g transform="translate(40,362)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#4479A1"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">SQL</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">MySQL</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#4479A1"/>
+    </g>
+    <g transform="translate(312,362)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#4169E1"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">PG</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">PostgreSQL</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#4169E1"/>
+    </g>
+    <g transform="translate(584,362)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#3ECF8E"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">SB</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Supabase</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#3ECF8E"/>
+    </g>
+    <g transform="translate(856,362)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#FFCA28"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">FB</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Firebase</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#FFCA28"/>
+    </g>
+    <g transform="translate(40,502)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#2496ED"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">D</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Docker</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#2496ED"/>
+    </g>
+    <g transform="translate(312,502)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#FCC624"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">LX</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Linux</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#FCC624"/>
+    </g>
+    <g transform="translate(584,502)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#E95420"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">UB</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Ubuntu</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#E95420"/>
+    </g>
+    <g transform="translate(856,502)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#F38020"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">CF</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Cloudflare</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#F38020"/>
+    </g>
+    <g transform="translate(40,642)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#2088FF"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">GA</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">GitHub Actions</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#2088FF"/>
+    </g>
+    <g transform="translate(312,642)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#3DDC84"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">AD</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Android</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#3DDC84"/>
+    </g>
+    <g transform="translate(584,642)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#A2AAAD"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">iOS</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">iOS</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#A2AAAD"/>
+    </g>
+    <g transform="translate(856,642)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#02569B"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">FL</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Flutter</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#02569B"/>
+    </g>
+    <g transform="translate(40,782)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#7F52FF"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">KT</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Kotlin</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#7F52FF"/>
+    </g>
+    <g transform="translate(312,782)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#F05138"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">SW</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Swift</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#F05138"/>
+    </g>
+    <g transform="translate(584,782)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#10A37F"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">AI</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">OpenAI</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#10A37F"/>
+    </g>
+    <g transform="translate(856,782)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#D97757"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">CL</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Claude</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#D97757"/>
+    </g>
+    <g transform="translate(40,922)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#4285F4"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">GM</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Gemini</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#4285F4"/>
+    </g>
+    <g transform="translate(312,922)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#FF3B7F"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">LV</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Lovable</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#FF3B7F"/>
+    </g>
+    <g transform="translate(584,922)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#0A66FF"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">MT</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Mithos</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#0A66FF"/>
+    </g>
+    <g transform="translate(856,922)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#EA4B71"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">n8n</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">n8n</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#EA4B71"/>
+    </g>
+    <g transform="translate(40,1062)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#00AEEF"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">API</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">API</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#00AEEF"/>
+    </g>
+    <g transform="translate(312,1062)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#00B7FF"/>
+      <text x="45" y="57" text-anchor="middle" fill="#061225" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">CY</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Caddy</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#00B7FF"/>
+    </g>
+    <g transform="translate(584,1062)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#009639"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">NG</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">Nginx</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#009639"/>
+    </g>
+    <g transform="translate(856,1062)">
+      <rect width="250" height="118" rx="22" fill="#FFFFFF" stroke="#D7E3F4" stroke-width="1.4"/>
+      <rect x="18" y="22" width="54" height="54" rx="16" fill="#1D4ED8"/>
+      <text x="45" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="900">VPS</text>
+      <text x="88" y="48" fill="#0B1F44" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="900">VPS</text>
+      <text x="88" y="72" fill="#5B6B86" font-family="Inter, Segoe UI, Arial" font-size="13" font-weight="600">stack Anglus</text>
+      <rect x="18" y="92" width="214" height="5" rx="2.5" fill="#EAF2FF"/>
+      <rect x="18" y="92" width="128" height="5" rx="2.5" fill="#1D4ED8"/>
+    </g>
+  </g>
+</svg>
