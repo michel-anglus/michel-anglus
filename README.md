@@ -13,10 +13,11 @@
     <img src="https://img.shields.io/badge/Site-anglus.com.br-0A66FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/michel-anglus">
-    <img src="https://img.shields.io/badge/GitHub-michel-anglus-FFFFFF?style=for-the-badge&logo=github&logoColor=0B1F44&labelColor=F3F8FF&color=0A66FF" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-michel%20anglus-0A66FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/Founder-Anglus%20Software-0A66FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Brazil-São%20Paulo-FFFFFF?style=for-the-badge&labelColor=F3F8FF&color=0A66FF" />
+  <img src="https://komarev.com/ghpvc/?username=michel-anglus&style=for-the-badge&color=0A66FF&label=VISITANTES" />
 </p>
 
 ---
